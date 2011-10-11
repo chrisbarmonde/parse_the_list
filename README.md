@@ -6,4 +6,4 @@ This is just a basic parser for The List, a Bay Area concert guide compiled and 
 References
 ----------
 
-http://www.calweb.com/~skoepke/: The home page for The List.
+http://www.calweb.com/~skoepke/ -> The home page for The List.
